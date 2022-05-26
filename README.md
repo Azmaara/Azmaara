@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmaara&label=Profile%20views&color=0e75b6&style=flat" alt="azmaara" /> </p>
 
-- 🌱 I’m currently learning **GO, APIs, Tailwind, TypeScript and Kotlin**
+- 🌱 I’m currently learning **AI/ML,Python Panda,numpy,Seaborn libraries, Go,Flutter, APIs, Tailwind, TypeScript and Kotlin**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/Azmaara_Tech](linktr.ee/Azmaara_Tech)
 
