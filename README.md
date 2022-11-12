@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI/ML,Python Panda,numpy,Seaborn libraries, Go,Flutter, APIs, Tailwind, TypeScript and Kotlin**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/Azmaara_Tech](linktr.ee/Azmaara_Tech)
+- 👨‍💻 All of my projects are available at [linktr.ee/Azmaara_Tech](https://linktr.ee/Azmaara_Tech)
 
 - 💬 Ask me about **C#,VB.Net, ASP.net, Javascript, Java, React,Flutter, Python,C++**
 
