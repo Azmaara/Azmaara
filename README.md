@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmaara&label=Profile%20views&color=0e75b6&style=flat" alt="azmaara" /> </p>
 
-- 🌱 I’m currently learning **AI/ML,Python Panda,numpy,Seaborn libraries, Go,Flutter, APIs, Tailwind,Rust, Power BI, Cybersecurity modules,TypeScript and Kotlin**
+- 🌱 I’m currently into  **AI/ML, Python Panda, numpy, Seaborn libraries, Go, Flutter, APIs, Tailwind , Rust, Power BI, AWS Cloud Practioner, Salesforce data modeling and AI, Cybersecurity modules, TypeScript and Kotlin**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/Azmaara_Tech](https://linktr.ee/Azmaara_Tech)
 
-- 💬 Ask me about **C#,VB.Net, ASP.net, Javascript, Java, React,Flutter, Python,C++**
+- 💬 Ask me about **C#,VB.Net, ASP.net, Javascript, Java, React, Flutter, Python, C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
