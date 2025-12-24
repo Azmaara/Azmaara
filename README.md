@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/Azmaara_Tech](https://linktr.ee/Azmaara_Tech)
 
-- 💬 Ask me about **C#,VB.Net, ASP.net, Javascript, Java, React, Flutter, Python, C++**
+- 💬 Ask me about **C#,VB.Net, ASP.net, Javascript, Java, React, Flutter, Python, C++**,OpenAI / Azure OpenAI APIs,LangChain / LlamaIndex,Vector Databases (FAISS, Pinecone, Chroma),Python for AI & ML,scikit-learn, Pandas / NumPy,Jupyter Notebooks
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
